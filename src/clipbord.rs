@@ -1,4 +1,4 @@
-use arbord::Clipboard;
+use arboard::Clipboard;
 use std::error::Error;
 
 pub fn gettxtcopy() -> Result<String, Box<dyn Error>> {

@@ -1,5 +1,4 @@
-use chrono::local::DateTime;
-use serde::{Deserialize, Serialize};
+use chrono::Local;
 
 pub struct DataEntry {
 	pub content: String,
