@@ -1,4 +1,3 @@
-# Clipboard History
 
 Un gestionnaire de presse-papiers en Rust qui sauvegarde et affiche l’historique des textes copiés sur votre pc.
 
